@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\adriell\documents\programaçãoavançada\exercicios\exercicios\main.cpp(97): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\adriell\documents\programaçãoavançada\exercicios\exercicios\main.cpp(143): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+c:\users\adriell\documents\programaçãoavançada\exercicios\exercicios\main.cpp(185): warning C4101: 'complemento': variável local não referenciada
+  Gerando código
+  1 of 21 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  exercicios.vcxproj -> C:\Users\Adriell\Documents\PROGRAMAÇÃOAVANÇADA\exercicios\Release\exercicios.exe

@@ -1,0 +1,25 @@
+int maior( int var1[10]);
+int menor(int var1[10]);
+int imp(int var1[10]);
+int primo(int var1);
+int dobro(int var1[3][3]);
+int soma(int var1[2][3]);
+int diagonal(int var1[4][4]);
+int antidiagonal(int var1[3][3]);
+float contar(float var1[10][3]);
+int montar10x3(int var1[10][3]);
+int printar10x3(int var1[10][3]);
+int contar(int var1[10][3]);
+int montar10x10(int var1[10][10]);
+int printar10x10(int var1[10][10]);
+int montar3x3(int var1[3][3]);
+int printar3x3(int var1[3][3]);
+int alocavetor(int var1[3][3],int var2[3]);
+int printalocavetor(int var1[3]);
+int montar10(int var1[10]);
+int printar10(int var1[10]);
+int montar2x3(int var1[2][3]);
+int printar2x3(int var1[2][3]);
+int montar4x4(int var1[4][4]);
+int printar4x4(int var1[4][4]);
+
